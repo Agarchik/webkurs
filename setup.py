@@ -33,7 +33,7 @@ setup(
     license=module.__license__,
     description=module.__doc__,
     long_description=open('README.rst').read(),
-    url='https://github.com/Agarchik/webkurs',
+    url='https://github.com/agarchik/webkurs',
     platforms='all',
     classifiers=[
         'Intended Audience :: Developers',

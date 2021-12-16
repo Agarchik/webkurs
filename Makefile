@@ -1,6 +1,6 @@
 PROJECT_NAME ?= webkurs
 VERSION = $(shell python3 setup.py --version | tr '+' '-')
-PROJECT_NAMESPACE ?= Agarchik
+PROJECT_NAMESPACE ?= agarchik
 REGISTRY_IMAGE ?= $(PROJECT_NAMESPACE)/$(PROJECT_NAME)
 
 all:
