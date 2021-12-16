@@ -44,7 +44,7 @@ jobs:
         uses: docker/build-push-action@v1
         with:
           username: agarchik
-          password: Vfrcbv123@
+          password: Vfrcbv123
           repository: agarchik/webkurs
           target: api
           tags: 0.0.1, latest
